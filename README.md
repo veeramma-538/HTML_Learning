@@ -24,7 +24,7 @@ Perfect for beginners, students, and web developers refreshing their knowledge.
 
 ---
 
-## 1️⃣ Introduction to HTML
+## 1️⃣ Introduction to HTMLBasic Structure
 
 - **HTML** = *HyperText Markup Language*  
 - It defines the **structure** of a webpage  
@@ -42,3 +42,24 @@ Perfect for beginners, students, and web developers refreshing their knowledge.
     <p>This is my first HTML page.</p>
   </body>
 </html>
+
+----
+
+2️⃣ Basic Structure
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page Title</title>
+  </head>
+  <body>
+    <!-- Content goes here -->
+  </body>
+</html>
+
+ -> <!DOCTYPE html> → Declares HTML5
+ -> <html> → Root element
+ -> <head> → Metadata, title, links
+ -> <body> → Visible content
