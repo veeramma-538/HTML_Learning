@@ -29,7 +29,21 @@ Perfect for beginners, students, and web developers refreshing their knowledge.
 
 ---
 
-## 1️⃣ Introduction to HTMLBasic Structure
+## 1️⃣ Introduction to HTML
+
+Inventor: Tim Berners-Lee at CERN.
+
+When: concept 1989; first working system (HTML, HTTP, first browser/editor) implemented in 1990–1991.
+
+Why: to share documents across disparate research computers using hyperlinks.
+
+Early milestones: HTML 1.0 (early 1990s), formal specs through the IETF/W3C later, CSS and JavaScript arrived later to separate style & behavior.
+
+Modern era: HTML evolved through major versions (HTML 2.0, 3.2, 4.01) to HTML5 (finalized ~2014), which standardized modern multimedia & APIs.
+
+Legacy: HTML remains the backbone of the web—semantic, extensible, and continuously evolving via WHATWG and W3C.
+
+
 
 - **HTML** = *HyperText Markup Language*  
 - It defines the **structure** of a webpage  
