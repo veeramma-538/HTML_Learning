@@ -59,7 +59,149 @@ Perfect for beginners, students, and web developers refreshing their knowledge.
   </body>
 </html>
 
- -> <!DOCTYPE html> → Declares HTML5
- -> <html> → Root element
- -> <head> → Metadata, title, links
- -> <body> → Visible content
+  <!DOCTYPE html> → Declares HTML5
+  <html> → Root element
+  <head> → Metadata, title, links
+  <body> → Visible content
+
+----
+
+3️⃣ Headings, Paragraphs & Text
+<h1>Main Heading</h1>
+<h2>Sub Heading</h2>
+<p>This is a paragraph.</p>
+<b>Bold</b> <i>Italic</i> <u>Underline</u>
+<br /> <!-- Line Break -->
+<hr /> <!-- Horizontal Line -->
+
+
+📝 Tip: Use <strong> and <em> for semantic importance instead of <b> and <i>.
+
+4️⃣ Links & Images
+<a href="https://github.com" target="_blank">Visit GitHub</a>
+
+<img src="image.jpg" alt="Description of image" width="300" />
+
+
+target="_blank" opens link in a new tab
+
+Always include alt text for accessibility
+
+5️⃣ Lists
+<ul>
+  <li>Unordered item 1</li>
+  <li>Unordered item 2</li>
+</ul>
+
+<ol>
+  <li>Ordered item 1</li>
+  <li>Ordered item 2</li>
+</ol>
+
+6️⃣ Tables
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Alice</td>
+    <td>20</td>
+  </tr>
+</table>
+
+
+<th> = Table Header
+
+<td> = Table Data
+
+7️⃣ Forms & Input Elements
+<form action="/submit" method="post">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required />
+  
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required />
+
+  <input type="submit" value="Submit" />
+</form>
+
+
+📝 Common Input Types:
+
+text, email, password, checkbox, radio, file, date, range
+
+8️⃣ Semantic HTML
+
+Semantic tags give meaning to the structure:
+
+<header>Site Header</header>
+<nav>Navigation Menu</nav>
+<main>Main Content</main>
+<section>Section Content</section>
+<article>Blog Post</article>
+<aside>Sidebar</aside>
+<footer>Site Footer</footer>
+
+
+✅ Improves SEO, accessibility, and code readability.
+
+9️⃣ Multimedia Elements
+<video controls width="400">
+  <source src="video.mp4" type="video/mp4" />
+</video>
+
+<audio controls>
+  <source src="audio.mp3" type="audio/mpeg" />
+</audio>
+
+🔟 HTML5 Features
+
+<canvas> for drawing graphics
+
+<svg> for vector images
+
+<audio> & <video> without plugins
+
+Local storage APIs
+
+New input types (e.g. date, color, range)
+
+📝 11. Best Practices
+
+✅ Use proper indentation
+
+✅ Use semantic tags
+
+✅ Include alt for images
+
+✅ Validate your HTML (W3C Validator
+)
+
+❌ Don’t use deprecated tags (<center>, <font> etc.)
+
+💻 12. Mini Projects
+
+Here are a few beginner-friendly project ideas:
+
+📝 Simple Portfolio page
+
+📰 Blog layout using semantic tags
+
+📅 Event registration form
+
+🍽️ Restaurant menu page
+
+📚 13. References
+
+W3Schools HTML Tutorial
+
+MDN Web Docs
+
+FreeCodeCamp HTML Course
+
+🧑‍💻 Contributing
+
+Contributions are welcome!
+If you'd like to improve these notes or add examples, feel free to open a pull request.
+
