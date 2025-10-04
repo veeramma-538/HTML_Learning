@@ -31,7 +31,7 @@ Perfect for beginners, students, and web developers refreshing their knowledge.
 
 ## 1️⃣ Introduction to HTML
 
- 1.Inventor: Tim Berners-Lee at CERN.
+1.Inventor: Tim Berners-Lee at CERN.
 
 2. When: concept 1989; first working system (HTML, HTTP, first browser/editor) implemented in 1990–1991.
 
@@ -41,7 +41,7 @@ Perfect for beginners, students, and web developers refreshing their knowledge.
 
 5.Modern era: HTML evolved through major versions (HTML 2.0, 3.2, 4.01) to HTML5 (finalized ~2014), which standardized modern multimedia & APIs.
 
- 6.Legacy: HTML remains the backbone of the web—semantic, extensible, and continuously evolving via WHATWG and W3C.
+6.Legacy: HTML remains the backbone of the web—semantic, extensible, and continuously evolving via WHATWG and W3C.
 
 
 
